@@ -35,7 +35,6 @@ def main():
           'pyyaml',
           'tornado',
           'traitlets >=4.1',
-          'lxml'
       ],
 
       py_modules=[
