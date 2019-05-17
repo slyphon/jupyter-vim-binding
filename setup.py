@@ -10,7 +10,7 @@ def main():
 
   setuptools.setup(
       name="slyphon-jupyter-vim-binding",
-      version="0.1.0.dev2",
+      version="0.1.0",
       author="Jonathan Simms",
       author_email="slyphon@gmail.com",
       description="vim bindings for jupyter (slyphon fork)",

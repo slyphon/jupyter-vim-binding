@@ -4,7 +4,7 @@ import os
 
 import jupyter_nbextensions_configurator
 
-__version__ = '0.1.0.dev2'
+__version__ = '0.1.0'
 
 def _jupyter_server_extension_paths():
     """Magically-named function for jupyter extension installations."""
